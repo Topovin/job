@@ -1,0 +1,11 @@
+
+button {
+    display: inline-block;
+    background: chocolate;
+    width: 200px;
+    height: 30px;
+}
+a {
+    text-decoration: none;
+    color: gold;
+}
