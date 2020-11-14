@@ -9,6 +9,7 @@ button {
 a {
     text-decoration: none;
     color: indigo;
+    background-color: khaki;
 }
 .info {
     border-spacing: 65px;
