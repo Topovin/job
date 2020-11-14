@@ -4,13 +4,20 @@ button {
     background: chocolate;
     width: 200px;
     height: 30px;
+    border-radius: 10px;
 }
 a {
     text-decoration: none;
-    color: gold;
+    color: indigo;
 }
 .info {
-    border-spacing: 20px;
+    border-spacing: 65px;
+    min-width: 850px;
+    margin: auto;
+    background-color: goldenrod;
+    opacity: 0.6;
+    margin-top: 40px;
+    border-radius: 25px;
 }
 .menu {
    margin: auto;
@@ -35,5 +42,11 @@ a {
 }
 body {
     background-image: url("1583303117_7942.jpeg");
+}
+td {
+    text-align: center;
+}
+.first-column {
+    max-width: 1px;
 }
  
